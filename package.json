@@ -1,5 +1,6 @@
 {
   "name": "draw_straws",
+  "homepage" ""https://calmez0609.github.io/draw_straws"
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
