@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/draw_straws/static/js/main.2636be15.js",
+    "static/js/39.05cc5308.js": "/draw_straws/static/js/39.05cc5308.js",
+    "favicon.ico": "/draw_straws/favicon.ico",
+    "index.html": "/draw_straws/index.html",
+    "favicon-32.png": "/draw_straws/favicon-32.png",
+    "favicon-16.png": "/draw_straws/favicon-16.png",
+    "manifest.json": "/draw_straws/manifest.json",
+    "serve.json": "/draw_straws/serve.json",
+    "main.2636be15.js.map": "/draw_straws/static/js/main.2636be15.js.map",
+    "39.05cc5308.js.map": "/draw_straws/static/js/39.05cc5308.js.map"
+  },
+  "entrypoints": [
+    "static/js/39.05cc5308.js",
+    "static/js/main.2636be15.js"
+  ]
+}
